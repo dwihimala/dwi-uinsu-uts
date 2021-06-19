@@ -1,0 +1,19 @@
+{
+  "name": "dwi-uinsu/uts",
+  "description": "UTS PBWL",
+  "type": "project",
+  "require": {
+    "php": "^8.0"
+  },
+  "authors": [
+    {
+      "name": "Dwi",
+      "email": "himalakasih@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
