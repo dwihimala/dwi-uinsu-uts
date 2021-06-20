@@ -2,7 +2,7 @@
 
 session_start();
 
-define ('URL', 'http://localhost/uts_aldy/');
+define ('URL', 'http://localhost/uts_dwih/');
 
 define ('ASSET', URL . 'layout/assets/');
 
